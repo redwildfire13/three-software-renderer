@@ -29,5 +29,5 @@
   },
   "peerDependencies": {
     "three": ">=0.82.1"
-  },
+  }
 }
